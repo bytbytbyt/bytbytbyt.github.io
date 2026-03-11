@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Yueting Ban avatar</title>
+  <desc id="desc">A simple placeholder avatar with the initial Y.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f4c5c" />
+      <stop offset="100%" stop-color="#1f7a8c" />
+    </linearGradient>
+  </defs>
+  <rect width="240" height="240" rx="32" fill="url(#bg)" />
+  <circle cx="120" cy="120" r="84" fill="#e9f5f7" opacity="0.14" />
+  <text
+    x="120"
+    y="148"
+    text-anchor="middle"
+    font-size="110"
+    font-family="Georgia, serif"
+    fill="#f3fbfc"
+  >
+    Y
+  </text>
+</svg>
